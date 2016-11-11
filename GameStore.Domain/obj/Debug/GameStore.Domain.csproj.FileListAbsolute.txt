@@ -1,0 +1,33 @@
+c:\users\vdatsyuk\documents\visual studio 2012\Projects\GameStore\GameStore.Domain\bin\Debug\GameStore.Domain.dll
+c:\users\vdatsyuk\documents\visual studio 2012\Projects\GameStore\GameStore.Domain\bin\Debug\GameStore.Domain.pdb
+c:\users\vdatsyuk\documents\visual studio 2012\Projects\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.dll
+c:\users\vdatsyuk\documents\visual studio 2012\Projects\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.pdb
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\GameStore.Domain.dll
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\GameStore.Domain.pdb
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\System.Web.Helpers.dll
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\System.Web.Mvc.dll
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\System.Web.Razor.dll
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.Deployment.dll
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.dll
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.Razor.dll
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\System.Web.Helpers.xml
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\System.Web.Mvc.xml
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\System.Web.Razor.xml
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.xml
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.Deployment.xml
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
+D:\project\c#\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.dll
+D:\project\c#\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.pdb
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\GameStore.Domain.dll.config
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\EntityFramework.dll
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\EntityFramework.xml
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\Newtonsoft.Json.dll
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\System.Net.Http.Formatting.dll
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\System.Web.Http.dll
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\Newtonsoft.Json.xml
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\System.Net.Http.Formatting.xml
+D:\project\c#\GameStore\GameStore.Domain\bin\Debug\System.Web.Http.xml
+D:\project\c#\GameStore\GameStore.Domain\obj\Debug\GameStore.Domain.csprojResolveAssemblyReference.cache
